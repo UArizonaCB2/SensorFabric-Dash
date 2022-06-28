@@ -3,6 +3,8 @@
 A demo application used to showcase Senor Fabric version 0.1 using Dash. 
 Sample screenshot shows synthetic data hosted on Rstudio Connect.
 
+![Screenshot of the dash application in action](/screenshots/sensorfabric-demo-screenshot.png "Demo application using Sensor Fabric and Dash.")
+
 # Installation
 
 It is highly recommeded to create a python virtual environment to run this application.
